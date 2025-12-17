@@ -10,9 +10,6 @@
 ![Android Studio](https://img.shields.io/badge/AndroidStudio-purple?logo=AndroidStudio)
 ![SoapUI](https://img.shields.io/badge/SoapUI-purple?logo=soap)
 
+## Follow me
 
-
-
-
-
-Follow me
+[![VK](https://img.shields.io/badge/VK-purple?logo=VK)](https://vk.ru/jokerfk)
